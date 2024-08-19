@@ -1,4 +1,4 @@
-Shreds a file/folder/disk to a point where no data recovery technique can recover it.
+# Shreds a file/folder/disk to a point where no data recovery technique can recover it.
 
 usage: python shredder.py
 
